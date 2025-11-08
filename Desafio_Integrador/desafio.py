@@ -1,11 +1,3 @@
-"""
-Crie um programa que peça o nome e 3 notas de cada aluno (para 5 alunos). Calcule a média e
-diga quem foi aprovado (média ≥ 7).
-No final, mostre:
-- Quantos alunos foram aprovados
-- Maior e menor média da turma
-"""
-
 aluno1 = []
 aluno2 = []
 aluno3 = []
